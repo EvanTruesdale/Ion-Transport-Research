@@ -1,0 +1,4 @@
+name: deepmd
+image: mcr.microsoft.com/azureml/openmpi3.1.2-cuda10.0-cudnn7-ubuntu18.04
+conda_file: deepmd_conda_dependencies.yml
+description: Environment created for DeePMD
