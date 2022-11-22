@@ -1,0 +1,989 @@
+slurmstepd: error: *** STEP 2428061.0 ON n3271 CANCELLED AT 2022-02-23T22:03:33 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001495EA22EB30  Unknown               Unknown  Unknown
+libmlx-fi.so       00001494B5816992  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001495EA9E1B33  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+slurmstepd: error: *** JOB 2428061 ON n3271 CANCELLED AT 2022-02-23T22:03:33 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000152EA8312B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000152EA8FB71BD  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000152EA90082F2  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000152EA8B4222E  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B9982DCB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014AF85F3AB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014AF8676AA72  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014AF86757B65  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014AF866CE0E7  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B65EEC4B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014923EB1FB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014923F34FA6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014923F33CB65  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014923F2B30E7  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014923F28CBEE  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014923F354D47  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014923F24AF62  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  0000149240599F90  mpi_allreduce_        Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000148B95E96B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000148B966C6A6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000148B966B3B65  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000147CB5AE2B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001465DA746B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000150DE3DADB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000151C74C7FB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014685285CB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001475332DCB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+[n3304:23713:0:23713] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000151E57371B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000151E57BA1A72  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000151E57B8EB65  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014F5235BEB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014F523DEEA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001464967F2B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000146497022A72  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014649700FB65  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000153B70404B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014E30C823B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000154B177CFB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000154B17FFFA72  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014E3F384DB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014E3F407DA72  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B2C2B8DB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014B2C33BDA72  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014D5A7E81B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014D5A86B1A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000152C15182B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000152C159B29C5  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014F481A8DB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001546C63BBB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001546C6BEBA72  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014EB08773B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014EB08FA3A6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014EB08F90B65  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014EB08F070E7  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014EB08EE0BEE  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014EB08FA8D47  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014EB08E9EF62  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  000014EB0A1EDF90  mpi_allreduce_        Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000150AE3669B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000150AE3E99A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014918E8C6B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014918F0F6A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014A970B3FB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014AF8BFA9B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014AF8C7D9A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014A896664B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014C64D7B3B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014ADE7262B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014ADE7A92A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000149FA3572B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000149FA3DA3CA4  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014C21B2A1B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015117C55AB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000153634DFFB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015363562FA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B99CA67B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014829792EB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014829815EA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015529100DB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015529183DA6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015529182AB65  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015474F1B4B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+[n3326:33517:0:33517] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015152B0EEB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015152B91EA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000151A5CEC8B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000151A5D6F9CA4  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014CA7FA4CB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014CA8027CA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001459946C2B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000152BE561DB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000152BE5E4DA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014900B4F6B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014900BD26A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001550DC0D0B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001550DC900A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001510522A1B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000151052AD1A6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000151052ABEB65  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000151052A350E7  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000151052A0EBEE  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014FDF079DB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B46CBADB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015002A749B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015002AF79A6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015002AF66B65  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000148397120B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000148397950A6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014839793DB65  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001483978B40E7  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014839788DBEE  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000148397955D47  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000146F6E65AB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014DA00278B30  Unknown               Unknown  Unknown
+libucp.so.0.0.0    000014D8CB5D7233  ucp_worker_progre     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014856EA5AB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014856F28A9C5  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014856F277B65  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015001AA9DB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015001B2CDA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001514940E6B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000151614F92B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001516157C2A72  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015150FEEEB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B327ED4B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014A1717C7B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014A171FF7A6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014A171FE4B65  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014A171F5B0E7  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015111FE07B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014B4BFB94B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014B4C03C4A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000155155030B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000147BD068AB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014F803E52B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014BB8CFEAB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014BB8D81AA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000145AA4093B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001486E404CB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014579EC0DB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001519B6F46B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001519B7777CA4  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001542C0084B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001542C08B4A6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001542C08A1B65  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001554FAD84B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001554FB5B4A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000150203BDCB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015020440CA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001488E18E2B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001488E2112A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000153C05042B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+[n3326:33538:0:33538] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015285782DB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+[n3320:2375 :0:2375] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+[n3326:33526:0:33526] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2392 :0:2392] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33531:0:33531] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015363CFD5B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015363D805A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+[n3326:33515:0:33515] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33518:0:33518] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33521:0:33521] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33524:0:33524] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33506:0:33506] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33541:0:33541] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33520:0:33520] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33507:0:33507] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33516:0:33516] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33528:0:33528] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33514:0:33514] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33529:0:33529] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33508:0:33508] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33540:0:33540] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33511:0:33511] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33504:0:33504] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33535:0:33535] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33510:0:33510] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33533:0:33533] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33537:0:33537] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33530:0:33530] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33523:0:33523] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33527:0:33527] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33503:0:33503] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33534:0:33534] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33539:0:33539] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33519:0:33519] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33522:0:33522] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3326:33532:0:33532] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2382 :0:2382] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2383 :0:2383] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2373 :0:2373] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2374 :0:2374] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2378 :0:2378] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2376 :0:2376] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2377 :0:2377] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2381 :0:2381] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2380 :0:2380] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3320:2379 :0:2379] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014A95DC45B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000014A95E475A72  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001519A429FB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00001519A4ACFA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000151F7A857B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000154BE77CFB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000154BE7FFFA6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001476EEADDB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000150D1308EB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001522527D5B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000152253005A6D  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000147186D2AB30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000154A09588B30  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000151359AC1B30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   000015135A2F1A6B  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+[n3271:15277:0:15277] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000146EA19CCB30  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000146EA21FCA6D  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   0000146EA21E9B65  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_gam           0000000001542004  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+[n3271:15271:0:15271] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
+[n3271:15255:0:15255] Caught signal 11 (Segmentation fault: Sent by the kernel at address (nil))
