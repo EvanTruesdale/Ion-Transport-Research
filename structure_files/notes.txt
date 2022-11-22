@@ -1,0 +1,71 @@
+LLZO_Ia3d_Al00:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 24
+- LI2_occupy = 32
+- AL_occupy = 0
+
+LLZO_Ia3d_Al10:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 21
+- LI2_occupy = 32
+- AL_occupy = 1
+
+LLZO_Ia3d_Al20:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 18
+- LI2_occupy = 32
+- AL_occupy = 2
+
+LLZO_Ia3d_Al30:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 15
+- LI2_occupy = 32
+- AL_occupy = 3
+
+LLZO_Ia3d_Al40:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 12
+- LI2_occupy = 32
+- AL_occupy = 4
+
+LLZO_Ia3d_Al50:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 9
+- LI2_occupy = 32
+- AL_occupy = 5
+
+LLZO_Ia3d_Al60:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 6
+- LI2_occupy = 32
+- AL_occupy = 6
+
+LLZO_Ia3d_Al70:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 3
+- LI2_occupy = 32
+- AL_occupy = 7
+
+LLZO_Ia3d_Al80:
+- LI1_sites = 24
+- LI2_sites = 96
+- LI1_occupy = 0
+- LI2_occupy = 32
+- AL_occupy = 8
+
+
+
+- occupations = {'O': 1.0,
+              'La': 0.985,
+              'Zr': 1.0,
+              'Li1': 0.69,
+              'Al': 0.072,
+              'Li2': 0.32}
