@@ -7,7 +7,6 @@
 *.pyx    text diff=python
 *.pyz    text diff=python
 *.pyi    text diff=python
-
 # Binary files
 # ============
 *.db     binary
@@ -17,11 +16,21 @@
 *.pyc    binary export-ignore
 *.pyo    binary export-ignore
 *.pyd    binary
-
 # Jupyter notebook
 *.ipynb  text
-
 # VASP data
 *OUTCAR
 *vasprun.xml
 *XDATCAR
+MD-VASP/data/LLZO_Ia3d_Al00_run0/OUTCAR filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al00_run0/vasprun.xml filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al10_run0/OUTCAR filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al10_run0/vasprun.xml filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al20_run0/OUTCAR filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al20_run0/vasprun.xml filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al20_run1/OUTCAR filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al20_run1/vasprun.xml filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al20_run2/OUTCAR filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al20_run2/vasprun.xml filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al30_run0/OUTCAR filter=lfs diff=lfs merge=lfs -text
+MD-VASP/data/LLZO_Ia3d_Al30_run0/vasprun.xml filter=lfs diff=lfs merge=lfs -text
