@@ -1,0 +1,206 @@
+LLZO_Ia3d_partial_00 being generated
+LLZO_Ia3d_partial_00 has been generated
+LLZO_Ia3d_partial_01 being generated
+LLZO_Ia3d_partial_01 has been generated
+LLZO_Ia3d_partial_02 being generated
+LLZO_Ia3d_partial_02 has been generated
+LLZO_Ia3d_partial_03 being generated
+LLZO_Ia3d_partial_03 has been generated
+LLZO_Ia3d_partial_04 being generated
+LLZO_Ia3d_partial_04 has been generated
+LLZO_Ia3d_partial_05 being generated
+LLZO_Ia3d_partial_05 has been generated
+LLZO_Ia3d_partial_06 being generated
+LLZO_Ia3d_partial_06 has been generated
+LLZO_Ia3d_partial_07 being generated
+LLZO_Ia3d_partial_07 has been generated
+LLZO_Ia3d_partial_08 being generated
+LLZO_Ia3d_partial_08 has been generated
+LLZO_Ia3d_partial_09 being generated
+LLZO_Ia3d_partial_09 has been generated
+LLZO_Ia3d_partial_10 being generated
+LLZO_Ia3d_partial_10 has been generated
+LLZO_Ia3d_partial_11 being generated
+LLZO_Ia3d_partial_11 has been generated
+LLZO_Ia3d_partial_12 being generated
+LLZO_Ia3d_partial_12 has been generated
+LLZO_Ia3d_partial_13 being generated
+LLZO_Ia3d_partial_13 has been generated
+LLZO_Ia3d_partial_14 being generated
+LLZO_Ia3d_partial_14 has been generated
+LLZO_Ia3d_partial_15 being generated
+LLZO_Ia3d_partial_15 has been generated
+LLZO_Ia3d_partial_16 being generated
+LLZO_Ia3d_partial_16 has been generated
+LLZO_Ia3d_partial_17 being generated
+LLZO_Ia3d_partial_17 has been generated
+LLZO_Ia3d_partial_18 being generated
+LLZO_Ia3d_partial_18 has been generated
+LLZO_Ia3d_partial_19 being generated
+LLZO_Ia3d_partial_19 has been generated
+LLZO_Ia3d_partial_20 being generated
+LLZO_Ia3d_partial_20 has been generated
+LLZO_Ia3d_partial_21 being generated
+LLZO_Ia3d_partial_21 has been generated
+LLZO_Ia3d_partial_22 being generated
+LLZO_Ia3d_partial_22 has been generated
+LLZO_Ia3d_partial_23 being generated
+LLZO_Ia3d_partial_23 has been generated
+LLZO_Ia3d_partial_24 being generated
+LLZO_Ia3d_partial_24 has been generated
+LLZO_Ia3d_partial_25 being generated
+LLZO_Ia3d_partial_25 has been generated
+LLZO_Ia3d_partial_26 being generated
+LLZO_Ia3d_partial_26 has been generated
+LLZO_Ia3d_partial_27 being generated
+LLZO_Ia3d_partial_27 has been generated
+LLZO_Ia3d_partial_28 being generated
+LLZO_Ia3d_partial_28 has been generated
+LLZO_Ia3d_partial_29 being generated
+[mpiexec@n3126] check_exit_codes (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:121): unable to run bstrap_proxy (pid 20333, exit code 256)
+[mpiexec@n3126] poll_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:159): check exit codes error
+[mpiexec@n3126] HYD_dmx_poll_wait_for_proxy_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:212): poll for event error
+[mpiexec@n3126] HYD_bstrap_setup (../../../../../src/pm/i_hydra/libhydra/bstrap/src/intel/i_hydra_bstrap.c:772): error waiting for event
+[mpiexec@n3126] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1955): error setting up the boostrap proxies
+mv: cannot stat 'CONTCAR': No such file or directory
+LLZO_Ia3d_partial_29 has been generated
+LLZO_Ia3d_partial_30 being generated
+LLZO_Ia3d_partial_30 has been generated
+LLZO_Ia3d_partial_31 being generated
+LLZO_Ia3d_partial_31 has been generated
+LLZO_Ia3d_partial_32 being generated
+LLZO_Ia3d_partial_32 has been generated
+LLZO_Ia3d_partial_33 being generated
+LLZO_Ia3d_partial_33 has been generated
+LLZO_Ia3d_partial_34 being generated
+LLZO_Ia3d_partial_34 has been generated
+LLZO_Ia3d_partial_35 being generated
+LLZO_Ia3d_partial_35 has been generated
+LLZO_Ia3d_partial_36 being generated
+LLZO_Ia3d_partial_36 has been generated
+LLZO_Ia3d_partial_37 being generated
+LLZO_Ia3d_partial_37 has been generated
+LLZO_Ia3d_partial_38 being generated
+LLZO_Ia3d_partial_38 has been generated
+LLZO_Ia3d_partial_39 being generated
+LLZO_Ia3d_partial_39 has been generated
+LLZO_Ia3d_partial_40 being generated
+LLZO_Ia3d_partial_40 has been generated
+LLZO_Ia3d_partial_41 being generated
+LLZO_Ia3d_partial_41 has been generated
+LLZO_Ia3d_partial_42 being generated
+LLZO_Ia3d_partial_42 has been generated
+LLZO_Ia3d_partial_43 being generated
+LLZO_Ia3d_partial_43 has been generated
+LLZO_Ia3d_partial_44 being generated
+LLZO_Ia3d_partial_44 has been generated
+LLZO_Ia3d_partial_45 being generated
+LLZO_Ia3d_partial_45 has been generated
+LLZO_Ia3d_partial_46 being generated
+LLZO_Ia3d_partial_46 has been generated
+LLZO_Ia3d_partial_47 being generated
+LLZO_Ia3d_partial_47 has been generated
+LLZO_Ia3d_partial_48 being generated
+LLZO_Ia3d_partial_48 has been generated
+LLZO_Ia3d_partial_49 being generated
+LLZO_Ia3d_partial_49 has been generated
+LLZO_Ia3d_partial_50 being generated
+LLZO_Ia3d_partial_50 has been generated
+LLZO_Ia3d_partial_51 being generated
+LLZO_Ia3d_partial_51 has been generated
+LLZO_Ia3d_partial_52 being generated
+LLZO_Ia3d_partial_52 has been generated
+LLZO_Ia3d_partial_53 being generated
+LLZO_Ia3d_partial_53 has been generated
+LLZO_Ia3d_partial_54 being generated
+LLZO_Ia3d_partial_54 has been generated
+LLZO_Ia3d_partial_55 being generated
+LLZO_Ia3d_partial_55 has been generated
+LLZO_Ia3d_partial_56 being generated
+LLZO_Ia3d_partial_56 has been generated
+LLZO_Ia3d_partial_57 being generated
+LLZO_Ia3d_partial_57 has been generated
+LLZO_Ia3d_partial_58 being generated
+LLZO_Ia3d_partial_58 has been generated
+LLZO_Ia3d_partial_59 being generated
+LLZO_Ia3d_partial_59 has been generated
+LLZO_Ia3d_partial_60 being generated
+LLZO_Ia3d_partial_60 has been generated
+LLZO_Ia3d_partial_61 being generated
+LLZO_Ia3d_partial_61 has been generated
+LLZO_Ia3d_partial_62 being generated
+LLZO_Ia3d_partial_62 has been generated
+LLZO_Ia3d_partial_63 being generated
+LLZO_Ia3d_partial_63 has been generated
+LLZO_Ia3d_partial_64 being generated
+LLZO_Ia3d_partial_64 has been generated
+LLZO_Ia3d_partial_65 being generated
+LLZO_Ia3d_partial_65 has been generated
+LLZO_Ia3d_partial_66 being generated
+LLZO_Ia3d_partial_66 has been generated
+LLZO_Ia3d_partial_67 being generated
+LLZO_Ia3d_partial_67 has been generated
+LLZO_Ia3d_partial_68 being generated
+LLZO_Ia3d_partial_68 has been generated
+LLZO_Ia3d_partial_69 being generated
+LLZO_Ia3d_partial_69 has been generated
+LLZO_Ia3d_partial_70 being generated
+LLZO_Ia3d_partial_70 has been generated
+LLZO_Ia3d_partial_71 being generated
+LLZO_Ia3d_partial_71 has been generated
+LLZO_Ia3d_partial_72 being generated
+LLZO_Ia3d_partial_72 has been generated
+LLZO_Ia3d_partial_73 being generated
+LLZO_Ia3d_partial_73 has been generated
+LLZO_Ia3d_partial_74 being generated
+LLZO_Ia3d_partial_74 has been generated
+LLZO_Ia3d_partial_75 being generated
+LLZO_Ia3d_partial_75 has been generated
+LLZO_Ia3d_partial_76 being generated
+LLZO_Ia3d_partial_76 has been generated
+LLZO_Ia3d_partial_77 being generated
+LLZO_Ia3d_partial_77 has been generated
+LLZO_Ia3d_partial_78 being generated
+LLZO_Ia3d_partial_78 has been generated
+LLZO_Ia3d_partial_79 being generated
+LLZO_Ia3d_partial_79 has been generated
+LLZO_Ia3d_partial_80 being generated
+LLZO_Ia3d_partial_80 has been generated
+LLZO_Ia3d_partial_81 being generated
+LLZO_Ia3d_partial_81 has been generated
+LLZO_Ia3d_partial_82 being generated
+LLZO_Ia3d_partial_82 has been generated
+LLZO_Ia3d_partial_83 being generated
+LLZO_Ia3d_partial_83 has been generated
+LLZO_Ia3d_partial_84 being generated
+LLZO_Ia3d_partial_84 has been generated
+LLZO_Ia3d_partial_85 being generated
+LLZO_Ia3d_partial_85 has been generated
+LLZO_Ia3d_partial_86 being generated
+LLZO_Ia3d_partial_86 has been generated
+LLZO_Ia3d_partial_87 being generated
+LLZO_Ia3d_partial_87 has been generated
+LLZO_Ia3d_partial_88 being generated
+LLZO_Ia3d_partial_88 has been generated
+LLZO_Ia3d_partial_89 being generated
+LLZO_Ia3d_partial_89 has been generated
+LLZO_Ia3d_partial_90 being generated
+LLZO_Ia3d_partial_90 has been generated
+LLZO_Ia3d_partial_91 being generated
+LLZO_Ia3d_partial_91 has been generated
+LLZO_Ia3d_partial_92 being generated
+LLZO_Ia3d_partial_92 has been generated
+LLZO_Ia3d_partial_93 being generated
+LLZO_Ia3d_partial_93 has been generated
+LLZO_Ia3d_partial_94 being generated
+LLZO_Ia3d_partial_94 has been generated
+LLZO_Ia3d_partial_95 being generated
+LLZO_Ia3d_partial_95 has been generated
+LLZO_Ia3d_partial_96 being generated
+LLZO_Ia3d_partial_96 has been generated
+LLZO_Ia3d_partial_97 being generated
+LLZO_Ia3d_partial_97 has been generated
+LLZO_Ia3d_partial_98 being generated
+LLZO_Ia3d_partial_98 has been generated
+LLZO_Ia3d_partial_99 being generated
+LLZO_Ia3d_partial_99 has been generated

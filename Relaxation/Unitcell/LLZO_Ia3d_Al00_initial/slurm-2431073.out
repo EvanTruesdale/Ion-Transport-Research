@@ -1,0 +1,218 @@
+LLZO_Ia3d_Al00_partial_00.vasp being generated
+LLZO_Ia3d_Al00_partial_00.vasp has been generated
+LLZO_Ia3d_Al00_partial_01.vasp being generated
+LLZO_Ia3d_Al00_partial_01.vasp has been generated
+LLZO_Ia3d_Al00_partial_02.vasp being generated
+LLZO_Ia3d_Al00_partial_02.vasp has been generated
+LLZO_Ia3d_Al00_partial_03.vasp being generated
+LLZO_Ia3d_Al00_partial_03.vasp has been generated
+LLZO_Ia3d_Al00_partial_04.vasp being generated
+LLZO_Ia3d_Al00_partial_04.vasp has been generated
+LLZO_Ia3d_Al00_partial_05.vasp being generated
+LLZO_Ia3d_Al00_partial_05.vasp has been generated
+LLZO_Ia3d_Al00_partial_06.vasp being generated
+LLZO_Ia3d_Al00_partial_06.vasp has been generated
+LLZO_Ia3d_Al00_partial_07.vasp being generated
+LLZO_Ia3d_Al00_partial_07.vasp has been generated
+LLZO_Ia3d_Al00_partial_08.vasp being generated
+LLZO_Ia3d_Al00_partial_08.vasp has been generated
+LLZO_Ia3d_Al00_partial_09.vasp being generated
+LLZO_Ia3d_Al00_partial_09.vasp has been generated
+LLZO_Ia3d_Al00_partial_10.vasp being generated
+LLZO_Ia3d_Al00_partial_10.vasp has been generated
+LLZO_Ia3d_Al00_partial_11.vasp being generated
+LLZO_Ia3d_Al00_partial_11.vasp has been generated
+LLZO_Ia3d_Al00_partial_12.vasp being generated
+LLZO_Ia3d_Al00_partial_12.vasp has been generated
+LLZO_Ia3d_Al00_partial_13.vasp being generated
+[mpiexec@n3055] check_exit_codes (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:121): unable to run bstrap_proxy (pid 5672, exit code 256)
+[mpiexec@n3055] poll_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:159): check exit codes error
+[mpiexec@n3055] HYD_dmx_poll_wait_for_proxy_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:212): poll for event error
+[mpiexec@n3055] HYD_bstrap_setup (../../../../../src/pm/i_hydra/libhydra/bstrap/src/intel/i_hydra_bstrap.c:772): error waiting for event
+[mpiexec@n3055] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1955): error setting up the boostrap proxies
+mv: cannot stat 'CONTCAR': No such file or directory
+LLZO_Ia3d_Al00_partial_13.vasp has been generated
+LLZO_Ia3d_Al00_partial_14.vasp being generated
+LLZO_Ia3d_Al00_partial_14.vasp has been generated
+LLZO_Ia3d_Al00_partial_15.vasp being generated
+LLZO_Ia3d_Al00_partial_15.vasp has been generated
+LLZO_Ia3d_Al00_partial_16.vasp being generated
+LLZO_Ia3d_Al00_partial_16.vasp has been generated
+LLZO_Ia3d_Al00_partial_17.vasp being generated
+LLZO_Ia3d_Al00_partial_17.vasp has been generated
+LLZO_Ia3d_Al00_partial_18.vasp being generated
+LLZO_Ia3d_Al00_partial_18.vasp has been generated
+LLZO_Ia3d_Al00_partial_19.vasp being generated
+LLZO_Ia3d_Al00_partial_19.vasp has been generated
+LLZO_Ia3d_Al00_partial_20.vasp being generated
+LLZO_Ia3d_Al00_partial_20.vasp has been generated
+LLZO_Ia3d_Al00_partial_21.vasp being generated
+LLZO_Ia3d_Al00_partial_21.vasp has been generated
+LLZO_Ia3d_Al00_partial_22.vasp being generated
+LLZO_Ia3d_Al00_partial_22.vasp has been generated
+LLZO_Ia3d_Al00_partial_23.vasp being generated
+LLZO_Ia3d_Al00_partial_23.vasp has been generated
+LLZO_Ia3d_Al00_partial_24.vasp being generated
+LLZO_Ia3d_Al00_partial_24.vasp has been generated
+LLZO_Ia3d_Al00_partial_25.vasp being generated
+LLZO_Ia3d_Al00_partial_25.vasp has been generated
+LLZO_Ia3d_Al00_partial_26.vasp being generated
+LLZO_Ia3d_Al00_partial_26.vasp has been generated
+LLZO_Ia3d_Al00_partial_27.vasp being generated
+LLZO_Ia3d_Al00_partial_27.vasp has been generated
+LLZO_Ia3d_Al00_partial_28.vasp being generated
+LLZO_Ia3d_Al00_partial_28.vasp has been generated
+LLZO_Ia3d_Al00_partial_29.vasp being generated
+LLZO_Ia3d_Al00_partial_29.vasp has been generated
+LLZO_Ia3d_Al00_partial_30.vasp being generated
+LLZO_Ia3d_Al00_partial_30.vasp has been generated
+LLZO_Ia3d_Al00_partial_31.vasp being generated
+LLZO_Ia3d_Al00_partial_31.vasp has been generated
+LLZO_Ia3d_Al00_partial_32.vasp being generated
+LLZO_Ia3d_Al00_partial_32.vasp has been generated
+LLZO_Ia3d_Al00_partial_33.vasp being generated
+LLZO_Ia3d_Al00_partial_33.vasp has been generated
+LLZO_Ia3d_Al00_partial_34.vasp being generated
+LLZO_Ia3d_Al00_partial_34.vasp has been generated
+LLZO_Ia3d_Al00_partial_35.vasp being generated
+LLZO_Ia3d_Al00_partial_35.vasp has been generated
+LLZO_Ia3d_Al00_partial_36.vasp being generated
+LLZO_Ia3d_Al00_partial_36.vasp has been generated
+LLZO_Ia3d_Al00_partial_37.vasp being generated
+LLZO_Ia3d_Al00_partial_37.vasp has been generated
+LLZO_Ia3d_Al00_partial_38.vasp being generated
+LLZO_Ia3d_Al00_partial_38.vasp has been generated
+LLZO_Ia3d_Al00_partial_39.vasp being generated
+LLZO_Ia3d_Al00_partial_39.vasp has been generated
+LLZO_Ia3d_Al00_partial_40.vasp being generated
+LLZO_Ia3d_Al00_partial_40.vasp has been generated
+LLZO_Ia3d_Al00_partial_41.vasp being generated
+LLZO_Ia3d_Al00_partial_41.vasp has been generated
+LLZO_Ia3d_Al00_partial_42.vasp being generated
+LLZO_Ia3d_Al00_partial_42.vasp has been generated
+LLZO_Ia3d_Al00_partial_43.vasp being generated
+LLZO_Ia3d_Al00_partial_43.vasp has been generated
+LLZO_Ia3d_Al00_partial_44.vasp being generated
+LLZO_Ia3d_Al00_partial_44.vasp has been generated
+LLZO_Ia3d_Al00_partial_45.vasp being generated
+LLZO_Ia3d_Al00_partial_45.vasp has been generated
+LLZO_Ia3d_Al00_partial_46.vasp being generated
+LLZO_Ia3d_Al00_partial_46.vasp has been generated
+LLZO_Ia3d_Al00_partial_47.vasp being generated
+LLZO_Ia3d_Al00_partial_47.vasp has been generated
+LLZO_Ia3d_Al00_partial_48.vasp being generated
+[mpiexec@n3055] check_exit_codes (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:121): unable to run bstrap_proxy (pid 48626, exit code 256)
+[mpiexec@n3055] poll_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:159): check exit codes error
+[mpiexec@n3055] HYD_dmx_poll_wait_for_proxy_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:212): poll for event error
+[mpiexec@n3055] HYD_bstrap_setup (../../../../../src/pm/i_hydra/libhydra/bstrap/src/intel/i_hydra_bstrap.c:772): error waiting for event
+[mpiexec@n3055] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1955): error setting up the boostrap proxies
+mv: cannot stat 'CONTCAR': No such file or directory
+LLZO_Ia3d_Al00_partial_48.vasp has been generated
+LLZO_Ia3d_Al00_partial_49.vasp being generated
+[mpiexec@n3055] check_exit_codes (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:121): unable to run bstrap_proxy (pid 48959, exit code 256)
+[mpiexec@n3055] poll_for_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:159): check exit codes error
+[mpiexec@n3055] HYD_dmx_poll_wait_for_proxy_event (../../../../../src/pm/i_hydra/libhydra/demux/hydra_demux_poll.c:212): poll for event error
+[mpiexec@n3055] HYD_bstrap_setup (../../../../../src/pm/i_hydra/libhydra/bstrap/src/intel/i_hydra_bstrap.c:772): error waiting for event
+[mpiexec@n3055] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1955): error setting up the boostrap proxies
+mv: cannot stat 'CONTCAR': No such file or directory
+LLZO_Ia3d_Al00_partial_49.vasp has been generated
+LLZO_Ia3d_Al00_partial_50.vasp being generated
+LLZO_Ia3d_Al00_partial_50.vasp has been generated
+LLZO_Ia3d_Al00_partial_51.vasp being generated
+LLZO_Ia3d_Al00_partial_51.vasp has been generated
+LLZO_Ia3d_Al00_partial_52.vasp being generated
+LLZO_Ia3d_Al00_partial_52.vasp has been generated
+LLZO_Ia3d_Al00_partial_53.vasp being generated
+LLZO_Ia3d_Al00_partial_53.vasp has been generated
+LLZO_Ia3d_Al00_partial_54.vasp being generated
+LLZO_Ia3d_Al00_partial_54.vasp has been generated
+LLZO_Ia3d_Al00_partial_55.vasp being generated
+LLZO_Ia3d_Al00_partial_55.vasp has been generated
+LLZO_Ia3d_Al00_partial_56.vasp being generated
+LLZO_Ia3d_Al00_partial_56.vasp has been generated
+LLZO_Ia3d_Al00_partial_57.vasp being generated
+LLZO_Ia3d_Al00_partial_57.vasp has been generated
+LLZO_Ia3d_Al00_partial_58.vasp being generated
+LLZO_Ia3d_Al00_partial_58.vasp has been generated
+LLZO_Ia3d_Al00_partial_59.vasp being generated
+LLZO_Ia3d_Al00_partial_59.vasp has been generated
+LLZO_Ia3d_Al00_partial_60.vasp being generated
+LLZO_Ia3d_Al00_partial_60.vasp has been generated
+LLZO_Ia3d_Al00_partial_61.vasp being generated
+LLZO_Ia3d_Al00_partial_61.vasp has been generated
+LLZO_Ia3d_Al00_partial_62.vasp being generated
+LLZO_Ia3d_Al00_partial_62.vasp has been generated
+LLZO_Ia3d_Al00_partial_63.vasp being generated
+LLZO_Ia3d_Al00_partial_63.vasp has been generated
+LLZO_Ia3d_Al00_partial_64.vasp being generated
+LLZO_Ia3d_Al00_partial_64.vasp has been generated
+LLZO_Ia3d_Al00_partial_65.vasp being generated
+LLZO_Ia3d_Al00_partial_65.vasp has been generated
+LLZO_Ia3d_Al00_partial_66.vasp being generated
+LLZO_Ia3d_Al00_partial_66.vasp has been generated
+LLZO_Ia3d_Al00_partial_67.vasp being generated
+LLZO_Ia3d_Al00_partial_67.vasp has been generated
+LLZO_Ia3d_Al00_partial_68.vasp being generated
+LLZO_Ia3d_Al00_partial_68.vasp has been generated
+LLZO_Ia3d_Al00_partial_69.vasp being generated
+LLZO_Ia3d_Al00_partial_69.vasp has been generated
+LLZO_Ia3d_Al00_partial_70.vasp being generated
+LLZO_Ia3d_Al00_partial_70.vasp has been generated
+LLZO_Ia3d_Al00_partial_71.vasp being generated
+LLZO_Ia3d_Al00_partial_71.vasp has been generated
+LLZO_Ia3d_Al00_partial_72.vasp being generated
+LLZO_Ia3d_Al00_partial_72.vasp has been generated
+LLZO_Ia3d_Al00_partial_73.vasp being generated
+LLZO_Ia3d_Al00_partial_73.vasp has been generated
+LLZO_Ia3d_Al00_partial_74.vasp being generated
+LLZO_Ia3d_Al00_partial_74.vasp has been generated
+LLZO_Ia3d_Al00_partial_75.vasp being generated
+LLZO_Ia3d_Al00_partial_75.vasp has been generated
+LLZO_Ia3d_Al00_partial_76.vasp being generated
+LLZO_Ia3d_Al00_partial_76.vasp has been generated
+LLZO_Ia3d_Al00_partial_77.vasp being generated
+LLZO_Ia3d_Al00_partial_77.vasp has been generated
+LLZO_Ia3d_Al00_partial_78.vasp being generated
+LLZO_Ia3d_Al00_partial_78.vasp has been generated
+LLZO_Ia3d_Al00_partial_79.vasp being generated
+LLZO_Ia3d_Al00_partial_79.vasp has been generated
+LLZO_Ia3d_Al00_partial_80.vasp being generated
+LLZO_Ia3d_Al00_partial_80.vasp has been generated
+LLZO_Ia3d_Al00_partial_81.vasp being generated
+LLZO_Ia3d_Al00_partial_81.vasp has been generated
+LLZO_Ia3d_Al00_partial_82.vasp being generated
+LLZO_Ia3d_Al00_partial_82.vasp has been generated
+LLZO_Ia3d_Al00_partial_83.vasp being generated
+LLZO_Ia3d_Al00_partial_83.vasp has been generated
+LLZO_Ia3d_Al00_partial_84.vasp being generated
+LLZO_Ia3d_Al00_partial_84.vasp has been generated
+LLZO_Ia3d_Al00_partial_85.vasp being generated
+LLZO_Ia3d_Al00_partial_85.vasp has been generated
+LLZO_Ia3d_Al00_partial_86.vasp being generated
+LLZO_Ia3d_Al00_partial_86.vasp has been generated
+LLZO_Ia3d_Al00_partial_87.vasp being generated
+LLZO_Ia3d_Al00_partial_87.vasp has been generated
+LLZO_Ia3d_Al00_partial_88.vasp being generated
+LLZO_Ia3d_Al00_partial_88.vasp has been generated
+LLZO_Ia3d_Al00_partial_89.vasp being generated
+LLZO_Ia3d_Al00_partial_89.vasp has been generated
+LLZO_Ia3d_Al00_partial_90.vasp being generated
+LLZO_Ia3d_Al00_partial_90.vasp has been generated
+LLZO_Ia3d_Al00_partial_91.vasp being generated
+LLZO_Ia3d_Al00_partial_91.vasp has been generated
+LLZO_Ia3d_Al00_partial_92.vasp being generated
+LLZO_Ia3d_Al00_partial_92.vasp has been generated
+LLZO_Ia3d_Al00_partial_93.vasp being generated
+LLZO_Ia3d_Al00_partial_93.vasp has been generated
+LLZO_Ia3d_Al00_partial_94.vasp being generated
+LLZO_Ia3d_Al00_partial_94.vasp has been generated
+LLZO_Ia3d_Al00_partial_95.vasp being generated
+LLZO_Ia3d_Al00_partial_95.vasp has been generated
+LLZO_Ia3d_Al00_partial_96.vasp being generated
+LLZO_Ia3d_Al00_partial_96.vasp has been generated
+LLZO_Ia3d_Al00_partial_97.vasp being generated
+LLZO_Ia3d_Al00_partial_97.vasp has been generated
+LLZO_Ia3d_Al00_partial_98.vasp being generated
+LLZO_Ia3d_Al00_partial_98.vasp has been generated
+LLZO_Ia3d_Al00_partial_99.vasp being generated
+LLZO_Ia3d_Al00_partial_99.vasp has been generated
