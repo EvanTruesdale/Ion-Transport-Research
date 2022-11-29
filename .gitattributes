@@ -18,6 +18,10 @@
 *.pyd    binary
 # Jupyter notebook
 *.ipynb  text
+
+# LAMMPS Trajectories
+*.lammpstrj
+
 # VASP data
 *OUTCAR
 *vasprun.xml
