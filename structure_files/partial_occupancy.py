@@ -62,10 +62,10 @@ while True:
     octahedral_Li_sort = np.append(octahedral_Li_sort, [min_v2], axis=0)
     octahedral_Li = np.delete(octahedral_Li, [min_j,0], 0)
 
-for config in range(100):
+for config in range(1):
     
     lattice = lines[2:5]
-    new_name = name + "_Al80_partial_" + f'{config:02d}' + '.vasp'
+    new_name = name + "_Al20_partial_" + f'{config:02d}' + '.vasp'
     supercell_atomic_positions_dict = dict.fromkeys(elements)
     supercell_numbers = [0 for _ in elements]
     for element in elements:
@@ -75,11 +75,11 @@ for config in range(100):
         for y in range(supercell[1]):
             for z in range(supercell[2]):
                 if (x+y+z)%2==0:
-                    LI1_occupy = 0
-                    AL_occupy = 8
+                    LI1_occupy = 18
+                    AL_occupy = 2
                 else:
-                    LI1_occupy = 0
-                    AL_occupy = 8
+                    LI1_occupy = 18
+                    AL_occupy = 2
                 LI2_occupy = 32
 
                 new_atomic_positions_dict = dict.fromkeys(elements)

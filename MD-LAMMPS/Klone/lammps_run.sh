@@ -2,7 +2,7 @@
 
 username="etrues"
 host_server="klone.hyak.uw.edu"
-target_dir="/gscratch/cmt/etrues/superfast_ion/MD-LAMMPS-70/"
+target_dir="/gscratch/cmt/etrues/superfast_ion/MD-LAMMPS-20/"
 zip_file="data.tar.gz"
 
 cp ../../DeePMD-Model/model/graph.pb graph.pb
