@@ -2,11 +2,11 @@
 
 username="etrues"
 host_server="klone.hyak.uw.edu"
-target_dir="/gscratch/cmt/etrues/superfast_ion/MD-LAMMPS-20/"
+target_dir="/gscratch/cmt/etrues/superfast_ion/MD-LAMMPS-15/"
 zip_file="data.tar.gz"
 
 cp ../../DeePMD-Model/model/graph.pb graph.pb
-tar -zcvf data.tar.gz structure*.lmp graph.pb submit.slurm jobs_submit.sh
+tar -zcvf data.tar.gz structure*.lmp graph.pb submit-highT.slurm submit-lowT.slurm jobs_submit.sh
 if [ ${?} -eq 0 ]
 then
 	true
