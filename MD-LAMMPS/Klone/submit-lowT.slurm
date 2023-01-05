@@ -6,7 +6,7 @@
 
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=40
-#SBATCH --time=4-00:00:00
+#SBATCH --time=10-00:00:00
 #SBATCH --mem=150G
 
 #SBATCH --mail-type=ALL
@@ -42,6 +42,7 @@ compute msd all msd com yes
 compute mscd all msd com yes average yes
 fix msdwrite all ave/time 1 9 10 c_msd file msd$i-$T.out mode vector
 fix mscdwrite all ave/time 1 9 10 c_mscd file mscd$i-$T.out mode vector
+dump trajectory all atom 100 trajectory-$i-$T.lammpstrj
 run $t
 print "All done"
 EOF
